@@ -7,7 +7,7 @@ import path, {resolve} from "node:path";
 export default defineConfig(
     {
         appType: "mpa",
-        base:"/Repo-Perfil-Vite",
+        base:"/PerfilVite",
         build:{
             rollupOptions:{
                 input: Object.fromEntries(
