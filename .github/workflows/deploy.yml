@@ -1,7 +1,7 @@
-name: Deploy Vite Compiled Page to GitHub Pages
+name: Deploy Vite Compiled Page to Github Pages
 
 on:
-	push:
+  push:
 		branches: ["main"]
 	workflow_dispatch:
 permissions:
